@@ -1,1 +1,1 @@
-# GIt_Study
+# Study
