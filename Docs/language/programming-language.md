@@ -14,7 +14,7 @@ Programming Languages are broadly classified into two type
 
 https://www.w3schools.in/difference-between-high-level-language-and-low-level-language
 
-### 타이핑(typing)
+### 타이핑
 | 강 타입 | 약 타입 |
 |---|--|
 | 자료형 정적 | 자료형 동적 |
@@ -23,4 +23,10 @@ https://www.w3schools.in/difference-between-high-level-language-and-low-level-la
 | 일반적으로 상용화하는 툴에 적합, 안전성 높음 | 타입 변경에 따른 의도가 명확하지 않을 수 있음(문자->숫자), 오류 발생률 높음 |
 | C, C++, C#, Java | javascript |
 
-### 
+### 메모리 관리
+| 매니지드 | 언매니지드 |
+|---|--|
+| 메모리반환을 프로그래밍언어에서 자동으로 관리 | 메모리반환을 프로그래머가 직접 관리 |
+| 언매니지드 언어보다 비효율적이기 성능이 떨어짐 | 메모리반환을 직접관리 하기 때문에 효율적(성능 중시) |
+| 자동으로 관리를 해주기에 메모리 누수 등의 실수가 적음 | 프로그래머의 실수에 따른 누수가 발생 |
+| C#, JAVA | C, C++ |
