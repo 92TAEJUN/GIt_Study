@@ -18,3 +18,17 @@ https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/builtin-types/
 # 자료형의 범위
 자료형에는 부호 있는 자료형과 부호 없는 자료형이 있다.  
 byte형만 부호 없는 자료형이 기본형이다.
+
+# 접두사
+진법을 표현
+|2진법|int num = 0b10|
+|---|--|
+|16진법|int num = 0x10|
+
+# 접미사
+상수 뒤에 붙이며 상수의 형을 표현
+|부호|uint num = 10u|
+|---|--|
+|long|long num = 10l|
+|float|float num = 10f|
+|double|double num = 10d // 보통은 생략|
