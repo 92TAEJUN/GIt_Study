@@ -12,5 +12,5 @@ https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/builtin-types/
 2. String
 
 # 불리언형
-* 참(true)과 거짓(false)을 표현하는 자료형
+* 참(true)과 거짓(false)을 표현하는 자료형  
 https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/builtin-types/bool
